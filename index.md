@@ -25,32 +25,33 @@ easily apply existing verification tools. To be eventually able to do this, an
 interdisciplinary effort from the concerned fields of formal methods, logic in
 computer science, and distributed algorithm theory is required.
 
-The topics of interest for the FRIDA workshop are:
+The topics of interest for the FRIDA workshop include but are not limited to:
 
 * models for distributed algorithms
 * model checking
-* proof assistants & theorem proving
+* proof assistants and theorem proving
 * parameterized model checking
 * integration of different verification techniques
 * concurrency
 * distributed algorithm theory
-* benchmark distributed algorithms
+* benchmarking distributed algorithms
 * fault tolerance
 * synthesis
 * automated code generation for distributed systems
 * run-time verification of distributed systems
+* testing distributed systems
 
 
 # Organizers
 
-* Marijana Lazić
-* Giuliano Losa
+* [Marijana Lazić](mailto:marijana.pmf@gmail.com)
+* [Giuliano Losa](mailto:giuliano@galois.com)
 
 # Previous editions
 
 Starting a productive dialogue between distributed algorithms and verification
 communities was the goal of a successful Dagstuhl Seminar “Formal Verification
-of Distributed Algorithms”which was held in April 2013. During this seminar,
+of Distributed Algorithms” which was held in April 2013. During this seminar,
 the participants agreed that a series of workshops should be held in order to
 strengthen the community that does research on these issues. The 1st workshop
 on Formal Reasoning in Distributed Algorithms took place in Vienna as part of
@@ -58,10 +59,5 @@ the Vienna Summer of Logic’14 and Federated Logic Conference’14. The 2ndFRID
 workshop took place in Grenoble as part of FORTE’15. The 3rd FRIDA workshop was
 organized in Marrakech as part of NETYS’16. The 4th FRIDA workshop took place
 in Vienna as part of DISC 2017. The 5th FRIDA workshop was co-located with CAV
-2018, which was held as part of the Federated Logic Conference (FLoC).
-
-TODO: Complete...
-
-# Testing links
-
-[A test link](my_page.md)
+2018, which was held as part of the Federated Logic Conference (FLoC). The 6th
+workshop was co-located with DISC 2019 in Budapest, Hungary.

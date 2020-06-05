@@ -61,3 +61,7 @@ in Vienna as part of DISC 2017. The 5th FRIDA workshop was co-located with CAV
 2018, which was held as part of the Federated Logic Conference (FLoC).
 
 TODO: Complete...
+
+# Testing links
+
+[A test link](my_page.md)

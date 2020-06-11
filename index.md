@@ -48,7 +48,7 @@ they apply to distributed algorithms and systems:
 
 ## Organizers
 
-* [Marijana Lazić](mailto:marijana.pmf@gmail.com)
+* [Marijana Lazić](https://www7.in.tum.de/~lazic/) 
 * [Giuliano Losa](mailto:giuliano@galois.com)
 
 ## Previous editions

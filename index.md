@@ -31,21 +31,19 @@ easily apply existing verification tools. To be eventually able to do this, an
 interdisciplinary effort from the concerned fields of formal methods, logic in
 computer science, and distributed algorithm theory is required.
 
-The topics of interest for the FRIDA workshop include but are not limited to:
+The topics of interest for the FRIDA workshop include the following topics, as
+they apply to distributed algorithms and systems:
 
-* models for distributed algorithms
+* formal modeling
 * model checking
-* proof assistants and theorem proving
+* interactive theorem proving
 * parameterized model checking
 * integration of different verification techniques
-* concurrency
-* distributed algorithm theory
-* benchmarking distributed algorithms
-* fault tolerance
+* benchmarking
 * synthesis
-* automated code generation for distributed systems
-* run-time verification of distributed systems
-* testing distributed systems
+* run-time verification
+* testing
+* invariant inference
 
 
 ## Organizers
@@ -67,5 +65,6 @@ Conference’14. The 2nd FRIDA workshop took place in Grenoble as part of
 FORTE’15. The 3rd FRIDA workshop was organized in Marrakech as part of
 NETYS’16. The 4th FRIDA workshop took place in Vienna as part of DISC 2017. The
 5th FRIDA workshop was co-located with CAV 2018, which was held as part of the
-Federated Logic Conference (FLoC). The 6th workshop was co-located with DISC
-2019 in Budapest, Hungary.
+Federated Logic Conference (FLoC). The [6th
+workshop](https://team.inria.fr/veridis/events/frida2019/) was co-located with
+DISC 2019 in Budapest, Hungary.

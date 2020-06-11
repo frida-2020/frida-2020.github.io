@@ -1,1 +1,1 @@
-Repository for FRIDA 2020
+Repository for the FRIDA 2020 workshop

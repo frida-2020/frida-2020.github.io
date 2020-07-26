@@ -48,23 +48,30 @@ they apply to distributed algorithms and systems:
 
 ## Organizers
 
-* [Marijana Lazić](mailto:marijana.pmf@gmail.com)
-* [Giuliano Losa](mailto:giuliano@galois.com)
+* [Marijana Lazić](https://www7.in.tum.de/~lazic/) [(email)](mailto:lazic@in.tum.de)
+* [Giuliano Losa](https://www.losa.fr/) [(email)](mailto:giuliano@galois.com)
 
 ## Previous editions
 
 Starting a productive dialogue between distributed algorithms and verification
-communities was the goal of a successful Dagstuhl Seminar “Formal Verification
-of Distributed Algorithms” which was held in April 2013. During this seminar,
+communities was the goal of a successful [Dagstuhl Seminar “Formal Verification
+of Distributed Algorithms”](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=13141)
+which was held in April 2013. During this seminar,
 the participants agreed that a series of workshops should be held in order to
 strengthen the community that does research on these issues. 
 
-The 1st workshop on Formal Reasoning in Distributed Algorithms took place in
-Vienna as part of the Vienna Summer of Logic’14 and Federated Logic
-Conference’14. The 2nd FRIDA workshop took place in Grenoble as part of
-FORTE’15. The 3rd FRIDA workshop was organized in Marrakech as part of
-NETYS’16. The 4th FRIDA workshop took place in Vienna as part of DISC 2017. The
-5th FRIDA workshop was co-located with CAV 2018, which was held as part of the
-Federated Logic Conference (FLoC). The [6th
-workshop](https://team.inria.fr/veridis/events/frida2019/) was co-located with
-DISC 2019 in Budapest, Hungary.
+The [1st workshop on Formal Reasoning in Distributed 
+Algorithms](https://easychair.org/smart-program/VSL2014/FRIDA-index.html) 
+took place in Vienna as part of the Vienna Summer of Logic’14 and Federated 
+Logic Conference’14. 
+The [2nd FRIDA workshop](http://discotec2015.inria.fr/workshops/frida-2015/) 
+took place in Grenoble as part of FORTE’15. 
+The [3rd FRIDA workshop](https://forsyte.at/events/frida2016/) 
+was organized in Marrakech as part of NETYS’16. 
+The [4th FRIDA workshop](https://forsyte.at/events/frida2017/) 
+took place in Vienna as part of DISC 2017. 
+The [5th FRIDA workshop](https://forsyte.at/events/frida2018/) was 
+co-located with CAV 2018, which was held as part of the
+Federated Logic Conference (FLoC). 
+The [6th workshop](https://team.inria.fr/veridis/events/frida2019/) was 
+co-located with DISC 2019 in Budapest, Hungary.

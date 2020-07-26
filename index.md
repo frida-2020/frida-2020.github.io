@@ -8,7 +8,7 @@ layout: home
 
 Dates: September 3rd to September 5th 2020
 
-Tentative schedule: Online workshop from 5pm to 7pm CET
+Tentative schedule: Online workshop from 5:30pm to 7:30pm CET
 
 The workshop is organized as part of [QONFEST 2020](http://qonfest2020.conf.tuwien.ac.at/), also hosting [CONCUR 2020](https://concur2020.forsyte.at/).
 

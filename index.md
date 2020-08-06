@@ -18,7 +18,7 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
 ## News
 
 * August 6th 2020:
-  * Marco Carbone, a leading expert on session types, will give an introduction
+  * [Marco Carbone](https://www.itu.dk/people/maca/), a leading expert on session types, will give an introduction
     to session types on Friday September 4th.
   * Tentative program posted
   * The schedule has been shifted by half an hour, for a start at 6pm, in order

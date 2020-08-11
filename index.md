@@ -60,7 +60,13 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
     </details>
   * 7:20pm to 8pm: [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/), University of California, Riverside
     <details>
-    <summary>To be announced</summary>
+    <summary>Replication Coordination Analysis and Synthesis, The Journey from Convergence to Integrity and recency.</summary>
+
+      <br>
+      <p>
+      Distributed system replication is widely used as a means of fault-tolerance and scalability. Traditional strong consistency maintains the same total order of operations across replicas. This total order is the immediate source of multiple desirable consistency properties: integrity, convergence and recency. However, maintaining the total order has proven to inhibit availability and performance. Weaker notions exhibit responsiveness and scalability; however, they forfeit the total order and hence its favorable properties. The project Hamsan revives these properties with as little coordination as possible. It presents a tool that, given a sequential class with the declaration of its integrity and recency requirements, automatically synthesizes a correct-by-construction replicated class that simultaneously guarantees the three properties. The approach is based on novel sufficient conditions for integrity, convergence and recency that require certain orders between conflicting and dependent operations, and constrain pending operations. To decide the validity of coordination-avoidance conditions, the tool applies automatic solvers to analyze both the given class statically and the operations dynamically. It then reduces coordination to classical minimization problems and instantiates novel parametric coordination protocols. The experiments show that the synthesized replicated objects are significantly more responsive than the strongly consistent baseline.
+      </p>
+
     </details>
 * Friday September 4th
   * 6pm to 6:40pm: [Damien Zufferey](https://dzufferey.github.io/), Max Planck Institute for Software Systems (MPI-SWS)

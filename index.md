@@ -18,8 +18,9 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
 ## News
 
 * August 25th 2020:
-  * Program update: Murdoch James Gabbay will talk about a mathematical
-    analysis of the (E)UTxO blockchain architecture on Friday September 4th
+  * Program update: [Murdoch James Gabbay](http://gabbay.org.uk/) will talk
+    about a mathematical analysis of the (E)UTxO blockchain architecture on
+    Friday September 4th.
 * August 6th 2020:
   * [Marco Carbone](https://www.itu.dk/people/maca/), a leading expert on session types, will give an introduction
     to session types on Friday September 4th.

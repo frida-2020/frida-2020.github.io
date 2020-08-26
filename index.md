@@ -17,6 +17,9 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
 
 ## News
 
+* August 25th 2020:
+  * Program update: Murdoch James Gabbay will talk about a mathematical
+    analysis of the (E)UTxO blockchain architecture on Friday September 4th
 * August 6th 2020:
   * [Marco Carbone](https://www.itu.dk/people/maca/), a leading expert on session types, will give an introduction
     to session types on Friday September 4th.
@@ -88,7 +91,19 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
     <details>
     <summary>Introduction to session types</summary>
     </details>
-  * 7:20pm to 8pm: TBA
+  * 7:20pm to 8pm: [Murdoch James Gabbay](http://gabbay.org.uk/), Heriot-Watt University
+    <details>
+    <summary>A mathematical analysis of the (E)UTxO blockchain architecture (click to expand the abstract)</summary>
+
+      <br>
+      <p>
+      The UTxO (unspent transaction output) model is the underlying data structure of Bitcoin, which has also been extended to the Extended UTxO model.  I will present a novel mathematical model of (E)UTxO based on some very simple type equations which — for me at least — make it easier to see what is structurally going on.  Time permitting, I will show how to derive from these equations a model of blockchains as algebras of partially-ordered partial monoids with channels.  These ideas exist as a full journal paper and a Haskell reference implementation.
+      </p>
+
+      <p>
+      <a href="https://arxiv.org/abs/2003.14271">A conference paper</a>, <a href="https://arxiv.org/abs/2007.12404">a journal paper (submitted)</a>, and <a href="https://github.com/bellissimogiorno/nominal/blob/master/src/Language/Nominal/Examples/IdealisedEUTxO.hs">Haskell code</a> are available now.
+      </p>
+    </details>
 * Saturday September 5th
   * 6pm to 6:40pm: Balasubramanian A.R., Technical University of Munich
     <details>

@@ -28,7 +28,7 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
   * The schedule has been shifted by half an hour, for a start at 6pm, in order
     to avoid conflict with other talks at QONFEST.
 
-## Tentative Program (to be confirmed)
+## Program
 
 * Thursday September 3rd
   - 6pm to 6:40pm: [Yotam Feldman](https://www.cs.tau.ac.il/research/yotam.feldman/), Tel Aviv University

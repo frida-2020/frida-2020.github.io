@@ -17,10 +17,17 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
 
 ## News
 
+* August 30st 2020:
+  * Participants should have received participation information by
+    email and on the QONFEST 2020 Slack workspace.
+  * Program update: On Friday, [Murdoch James Gabbay](http://gabbay.org.uk/)
+    will talk about "a semi-topological view of real-world consensus". His
+    formerly scheduled talk or (E)UTxO blockchains is [available on
+    youtube](https://www.youtube.com/watch?v=ssYC6Fa1in4).
 * August 25th 2020:
-  * Program update: [Murdoch James Gabbay](http://gabbay.org.uk/) will talk
+  * ~~Program update: [Murdoch James Gabbay](http://gabbay.org.uk/) will talk
     about a mathematical analysis of the (E)UTxO blockchain architecture on
-    Friday September 4th.
+    Friday September 4th.~~
 * August 6th 2020:
   * [Marco Carbone](https://www.itu.dk/people/maca/), a leading expert on session types, will give an introduction
     to session types on Friday September 4th.
@@ -94,15 +101,17 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
     </details>
   * 7:20pm to 8pm: [Murdoch James Gabbay](http://gabbay.org.uk/), Heriot-Watt University
     <details>
-    <summary>A mathematical analysis of the (E)UTxO blockchain architecture (click to expand the abstract)</summary>
+    <summary>A semi-topological view of real-world consensus</summary>
 
       <br>
       <p>
-      The UTxO (unspent transaction output) model is the underlying data structure of Bitcoin, which has also been extended to the Extended UTxO model.  I will present a novel mathematical model of (E)UTxO based on some very simple type equations which — for me at least — make it easier to see what is structurally going on.  Time permitting, I will show how to derive from these equations a model of blockchains as algebras of partially-ordered partial monoids with channels.  These ideas exist as a full journal paper and a Haskell reference implementation.
+      In the real world, people join humanity, grow up trusting very different quorums from one another, and they may change their quorums with time.  In technical terms we could call this an open permissionless system with mutable local quorums.  Instances abound in daily life, including: deciding who to go to lunch with, what brand of clothing to wear, real-world voting systems (e.g. elections), and the Stellar consensus protocol.
       </p>
-
       <p>
-      <a href="https://arxiv.org/abs/2003.14271">A conference paper</a>, <a href="https://arxiv.org/abs/2007.12404">a journal paper (submitted)</a>, and <a href="https://github.com/bellissimogiorno/nominal/blob/master/src/Language/Nominal/Examples/IdealisedEUTxO.hs">Haskell code</a> are available now.
+      One might expect such systems to be a jumbled disorder --- and yet, somehow, they typically self-organise into uniform areas of fairly stable consensus.  One might almost suspect there could be some deep mathematical principles involved!
+      </p>
+      <p>
+      In this talk I will discuss consensus in a permissionless open system with mutable local quorums, and suggest how a novel topological view, which I call semi-topologies, might offer a mathematical analysis with surprisingly good explanatory power.
       </p>
     </details>
 * Saturday September 5th

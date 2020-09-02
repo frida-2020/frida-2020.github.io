@@ -22,7 +22,7 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
     email and on the QONFEST 2020 Slack workspace.
   * Program update: On Friday, [Murdoch James Gabbay](http://gabbay.org.uk/)
     will talk about "a semi-topological view of real-world consensus". His
-    formerly scheduled talk or (E)UTxO blockchains is [available on
+    formerly scheduled talk on (E)UTxO blockchains is [available on
     youtube](https://www.youtube.com/watch?v=ssYC6Fa1in4).
 * August 25th 2020:
   * ~~Program update: [Murdoch James Gabbay](http://gabbay.org.uk/) will talk

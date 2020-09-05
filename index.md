@@ -142,7 +142,7 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
       </p>
 
     </details>
-  * 6:40pm to 7:20pm: [Borzoo Bonakdarpour](http://web.cs.iastate.edu/~borzoo/), Michigan State University
+  * 6:40pm to 7:20pm: [Borzoo Bonakdarpour](https://www.cse.msu.edu/~borzoo/), Michigan State University
     <details>
     <summary>Parametrized Synthesis of Distributed Self-stabilizing Protocols (click to see the abstract)</summary>
 

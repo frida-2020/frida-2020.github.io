@@ -17,6 +17,10 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
 
 ## News
 
+* September 7th 2020:
+  * Video recordings of all the workshop talks are available on the [QONFEST 
+	YouTube channel](https://www.youtube.com/channel/UCK9p1Z8nIPTP4Uv5Qodb1og/videos). 
+	Find the corresponding links below in the program. 
 * August 30st 2020:
   * Participants should have received participation information by
     email and on the QONFEST 2020 Slack workspace.
@@ -39,7 +43,9 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
 
 * Thursday September 3rd
   - 6pm to 6:40pm: [Yotam Feldman](https://www.cs.tau.ac.il/research/yotam.feldman/), Tel Aviv University 
-  [video](https://www.youtube.com/watch?v=ZQD78awnu-k&t=33s)
+  
+  [(Video)](https://www.youtube.com/watch?v=ZQD78awnu-k&t=33s)
+  
     <details>
     <summary>Inferring Inductive Invariants from Phase Structures  (click to expand the abstract)</summary>
       <br>
@@ -58,7 +64,9 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
     </details>
 
   * 6:40pm to 7:20pm: Lacramioara Astefanoaei, [Nomadic Labs](https://nomadic-labs.com/)
-  [video](https://www.youtube.com/watch?v=HmGJx6eUKrs)
+  
+  [(Video)](https://www.youtube.com/watch?v=HmGJx6eUKrs)
+  
     <details>
     <summary>Using Maude for modeling consensus algorithms in blockchains  (click to expand the abstract)</summary>
 
@@ -72,7 +80,9 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
       </p>
     </details>
   * 7:20pm to 8pm: [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/), University of California, Riverside
-  [video](https://www.youtube.com/watch?v=eTz3h6QLyEQ)
+  
+  [(Video)](https://www.youtube.com/watch?v=eTz3h6QLyEQ)
+  
     <details>
     <summary>Replication Coordination Analysis and Synthesis, The Journey from Convergence to Integrity and recency</summary>
 
@@ -84,7 +94,9 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
     </details>
 * Friday September 4th
   * 6pm to 6:40pm: [Damien Zufferey](https://dzufferey.github.io/), Max Planck Institute for Software Systems (MPI-SWS)
-  [video](https://www.youtube.com/watch?v=C1gUe-Lqe3s)
+  
+  [(Video)](https://www.youtube.com/watch?v=C1gUe-Lqe3s)
+  
     <details>
     <summary>Implementing Communication-Closed Rounds: Toward an Efficient and General Solution  (click to expand the abstract)</summary>
 
@@ -100,12 +112,16 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
       </p>
     </details>
   * 6:40pm to 7:20pm: [Marco Carbone](https://www.itu.dk/people/maca/), IT University of Copenhagen
-  [video](https://www.youtube.com/watch?v=Qnf845kHC3I)
+  
+  [(Video)](https://www.youtube.com/watch?v=Qnf845kHC3I)
+  
     <details>
     <summary>Introduction to session types </summary>
     </details>
   * 7:20pm to 8pm: [Murdoch James Gabbay](http://gabbay.org.uk/), Heriot-Watt University
-  [video](https://www.youtube.com/watch?v=KbmQiQ9cb80)
+  
+  [(Video)](https://www.youtube.com/watch?v=KbmQiQ9cb80)
+  
     <details>
     <summary>A semi-topological view of real-world consensus </summary>
 
@@ -122,7 +138,9 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
     </details>
 * Saturday September 5th
   * 6pm to 6:40pm: Balasubramanian A.R., Technical University of Munich
-  [video](https://www.youtube.com/watch?v=WrP8G_TE7so)
+  
+  [(Video)](https://www.youtube.com/watch?v=WrP8G_TE7so)
+  
     <details>
     <summary>Complexity of Verification and Synthesis of Threshold Automata (click to expand the abstract)</summary>
 
@@ -150,7 +168,9 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
 
     </details>
   * 6:40pm to 7:20pm: [Borzoo Bonakdarpour](https://www.cse.msu.edu/~borzoo/), Michigan State University
-  [video](https://www.youtube.com/watch?v=T5vs21YKagc)
+  
+  [(Video)](https://www.youtube.com/watch?v=T5vs21YKagc)
+  
     <details>
     <summary>Parametrized Synthesis of Distributed Self-stabilizing Protocols  (click to see the abstract)</summary>
 
@@ -161,7 +181,9 @@ Workshop-only registration costs 5 Euros until August 13th and then 8 Euros.
 
     </details>
   * 7:20pm to 8pm: [James R. Wilcox](https://jamesrwilcox.com/), [Certora](https://certora.com/)
-  [video](https://www.youtube.com/watch?v=MfpSvyPu-YI)
+  
+  [(Video)](https://www.youtube.com/watch?v=MfpSvyPu-YI)
+  
     <details>
     <summary>The mypyvy intermediate language for symbolic transition systems  (click to see the abstract)</summary>
 
